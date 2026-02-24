@@ -222,6 +222,3 @@ After execution, the following files are generated:
 
 ---
 
-##  Author
-
-*Generated as part of a Data Science / AI coursework project on synthetic data generation and model evaluation using simulation-based approaches.*
